@@ -7,7 +7,7 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
 1. **Clona este repositorio:**
     ```bash
-    git clone https://github.com/marvin211/PROJETask-backend.git
+    git clone https://github.com/marvin211/ProjeTask-backend.git
     ```
 2. **Instala las dependencias:**
     ```bash
