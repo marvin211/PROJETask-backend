@@ -1,4 +1,4 @@
-# PROJETask Backend
+# ProjeTask Backend
 
 Pequeño CRM (Customer Relationship Management) diseñado para la gestión de proyectos y tareas asociadas a usuarios. El backend está construido utilizando Node.js y Express.js y la base de datos utilizada es MongoDB.
 
